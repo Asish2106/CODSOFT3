@@ -1,0 +1,47 @@
+body{
+
+  background-color:rgb(106, 167, 229);
+
+}
+
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  .main
+{
+margin-left:42%;
+border:1px solid black;
+box-shadow: 5px 8px 5px ;
+border-radius:30px;
+width:fit-content;
+background-color:slategray;
+padding:10px;
+}
+.button
+{
+  box-shadow:5px 4px 5px;
+}
+.button:hover{
+  background-color:cadetblue;
+  font-size: 23px;
+}
